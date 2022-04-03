@@ -59,7 +59,7 @@
     },
     "qrcode-terminal": {
       "optional": true
-    },
+    }
   },
   "files": [
     "lib/*",
